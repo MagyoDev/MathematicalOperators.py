@@ -1,3 +1,5 @@
+# Explanation:
+
 The code prompts the user to input two numbers, N1 and N2, and converts these inputs into floating-point numbers using float(input()).
 
 Then, it performs several mathematical operations:
